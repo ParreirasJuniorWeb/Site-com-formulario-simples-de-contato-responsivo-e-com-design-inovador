@@ -1,0 +1,2 @@
+**Formulário simples e responsivo para contatos**
+Site com formulário simples de contato responsivo e com design inovador, divido em três divisórias, uma sendo a principal - o formulário, a outra sendo um container para incorporar as redes sociais (uma tag div em HTML para compor uma pequena tabela onde ficará exposto cada icon das redes sociais da loja online) e, por fim, uma última para emitir a localização exata de onde se encontra a loja física mais próxima para o cliente (um mapa do GoogleMaps importado).
